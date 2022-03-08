@@ -1,0 +1,19 @@
+{
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/objects-to-csv": "^1.3.1",
+    "nodemon": "^2.0.15",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "@pkmn/data": "^0.5.7",
+    "@pkmn/dex": "^0.5.7",
+    "objects-to-csv": "^1.3.6"
+  }
+}

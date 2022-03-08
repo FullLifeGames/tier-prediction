@@ -1,0 +1,25 @@
+hp,atk,def,spa,spd,speed,ability1,ability2,ability3,type1,type2,bst,tier,name
+60,75,45,65,50,55,Intimidate,Flash Fire,Justified,Fire,Rock,350,Illegal,Growlithe-Hisui
+95,115,80,95,80,90,Intimidate,Flash Fire,Justified,Fire,Rock,555,Illegal,Arcanine-Hisui
+40,30,50,55,55,100,Soundproof,Static,Aftermath,Electric,Grass,330,Illegal,Voltorb-Hisui
+60,50,70,80,80,150,Soundproof,Static,Aftermath,Electric,Grass,490,Illegal,Electrode-Hisui
+73,84,78,119,85,95,Blaze,,Flash Fire,Fire,Ghost,534,Illegal,Typhlosion-Hisui
+65,95,85,55,55,85,Poison Point,Swift Swim,Intimidate,Dark,Poison,440,Illegal,Qwilfish-Hisui
+55,95,55,35,75,115,Inner Focus,Keen Eye,Poison Touch,Fighting,Poison,430,Illegal,Sneasel-Hisui
+90,108,80,100,65,85,Torrent,,Shell Armor,Water,Dark,528,Illegal,Samurott-Hisui
+70,105,75,50,75,105,Chlorophyll,Hustle,Leaf Guard,Grass,Fighting,480,Illegal,Lilligant-Hisui
+35,60,40,85,40,70,Illusion,,,Normal,Ghost,330,Illegal,Zorua-Hisui
+55,100,60,125,60,110,Illusion,,,Normal,Ghost,510,Illegal,Zoroark-Hisui
+110,83,70,112,70,65,Keen Eye,Sheer Force,Defiant,Psychic,Flying,510,Illegal,Braviary-Hisui
+58,75,83,83,113,40,Sap Sipper,Overcoat,Gooey,Steel,Dragon,452,Illegal,Sliggoo-Hisui
+80,100,100,110,150,60,Sap Sipper,Overcoat,Gooey,Steel,Dragon,600,Illegal,Goodra-Hisui
+95,127,184,34,36,38,Strong Jaw,Ice Body,Sturdy,Ice,Rock,514,Illegal,Avalugg-Hisui
+88,112,80,95,95,60,Overgrow,,Long Reach,Grass,Fighting,530,Illegal,Decidueye-Hisui
+103,105,72,105,75,65,Intimidate,Frisk,Sap Sipper,Normal,Psychic,525,Illegal,Wyrdeer
+70,135,95,45,70,85,Swarm,Sheer Force,Steadfast,Bug,Rock,500,Illegal,Kleavor
+130,140,105,45,80,50,Guts,Bulletproof,Unnerve,Ground,Normal,550,Illegal,Ursaluna
+120,112,65,80,75,78,Rattled,Adaptability,Mold Breaker,Water,Ghost,530,Illegal,Basculegion
+80,130,60,40,80,120,Pressure,,Poison Touch,Fighting,Poison,510,Illegal,Sneasler
+85,115,95,65,65,85,Poison Point,Swift Swim,Intimidate,Dark,Poison,510,Illegal,Overqwil
+74,115,70,135,80,106,Healer,,Contrary,Fairy,Flying,580,Illegal,Enamorus
+74,115,110,135,100,46,Overcoat,,,Fairy,Flying,580,Illegal,Enamorus-Therian
